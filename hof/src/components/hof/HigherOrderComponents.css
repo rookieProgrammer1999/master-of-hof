@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+  }
+  
+  ul{
+    list-style: none;
+    padding: 0px;
+  }
+  
+  span{
+    color:#034f84;
+    margin: 10px;
+  }
+  
+  .display-box{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:fit-content;
+    padding: 20px;
+    margin: auto;
+  }
